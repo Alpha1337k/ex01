@@ -1,0 +1,8 @@
+klist
+Credentials cache: API:64060
+        Principal: okruitho@CODAM.NL
+
+  Issued                Expires               Principal
+Sep  9 09:58:55 2019  Sep  9 19:58:55 2019  krbtgt/CODAM.NL@CODAM.NL
+Sep  9 09:58:56 2019  Sep  9 19:58:55 2019  ldap/ldap-kdc.codam.nl@CODAM.NL
+Sep  9 09:58:57 2019  Sep  9 19:58:55 2019  HTTP/storage-student.codam.nl@CODAM.NL
